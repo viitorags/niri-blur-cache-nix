@@ -1,2 +1,2 @@
 - name: Restore and save Nix Store
-    uses: nix-community/cache-nix-action@v7
+  uses: nix-community/cache-nix-action@v7
